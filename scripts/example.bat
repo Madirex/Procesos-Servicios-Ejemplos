@@ -1,0 +1,1 @@
+echo "Ejemplo .bat"
