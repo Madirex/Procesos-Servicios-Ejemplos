@@ -3,6 +3,8 @@ En este proyecto encontrarás la resolución a los típicos problemas presentado
 ## 1. Carrera de camellos 🐫
 Un grupo de camellos se aburre y deciden participar en una carrera. Al finalizar la carrera, se podrán ver los 3 camellos más veloces y sexis 😏
 
+!(https://imgur.com/FYUPUa2)
+
 ## 2. Productor consumidor 👷‍♀️
 Varios consumidores acceden a una tienda donde hay varios productores produciendo items. El consumidor recoge los items y, cuando está satisfecho al haber recogido la cantidad de items que quería, se va. Cuando no quedan consumidores, los productores se van y la tienda cierra. Después muy probablemente se vayan todos de fiesta 🥳
 
