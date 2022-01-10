@@ -1,7 +1,11 @@
 En este proyecto encontrarás la resolución a los típicos problemas presentados en servicios y procesos:
 
 ## 1. Carrera de camellos 🐫
+<p align="center">
+
+
 ![Carrera de camellos](https://i.imgur.com/nJBo72s.png)
+  </p>
 Un grupo de camellos se aburre y deciden participar en una carrera. Al finalizar la carrera, se podrán ver los 3 camellos más veloces y sexis 😏
 
 ## 2. Productor consumidor 👷‍♀️
