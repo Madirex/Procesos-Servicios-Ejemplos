@@ -1,4 +1,4 @@
-En este proyecto encontrarás la resolución a los típicos problemas presentados en servicios y procesos:
+En este proyecto encontrarás la resolución a los típicos problemas presentados en servicios y procesos.
 
 ## 1. Carrera de camellos 🐫
 <p align="center">
