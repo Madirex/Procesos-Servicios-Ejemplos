@@ -29,7 +29,7 @@ Y hablando de existencialismo...
   <img src="https://i.imgur.com/W53CQZX.png" alt="Filósofos comensales"/>
   </p>
 
-No podría faltar este problema. El problema de la cena de los filósofos cenando. Para que cada filósofo pueda comer deben de tener en sus manos los dos tenedores (izquierdo y derecho). Cada filósofo pensará durante un rato. A continuación, agarrarán el tenedor izquierdo y luego el derecho. Luego comerán. Al terminar de comer volverán a dejar los tenedores en la mesa. Cuando todos los filósofos terminan de comer concluyen que la vida es maravillosa ♥
+No podría faltar este problema. El problema de la cena de los filósofos cenando. Para que cada filósofo pueda comer deben de tener en sus manos los dos tenedores (izquierdo y derecho). Cada filósofo pensará durante un rato. A continuación, agarrarán el tenedor izquierdo y luego el derecho. Luego comerán. Al terminar de comer volverán a dejar los tenedores en la mesa. Cuando todos los filósofos terminan de comer, concluyen que la vida es maravillosa ♥
 
 ## 5. Procesos y web 👨‍💻
 <p align="center">
